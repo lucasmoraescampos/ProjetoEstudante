@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/dados">
+        <file>Arquivos/CodigoDisciplinaCH.csv</file>
+        <file>Arquivos/MatriculaCodigoDisciplina.csv</file>
+        <file>Arquivos/MatriculaNome.csv</file>
+    </qresource>
+</RCC>
